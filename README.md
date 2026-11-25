@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+[![rank](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/aizen99829/entry-best-meal-ever/rank.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+[![reward](https://make.fun/badge/u-pangg7-the-best-meal-you-ever-had-a3ac0f85/aizen99829/entry-best-meal-ever/reward.svg)](https://make.fun/bounty/u-pangg7-the-best-meal-you-ever-had-a3ac0f85?utm_source=github&utm_medium=readme&utm_campaign=u-pangg7-the-best-meal-you-ever-had-a3ac0f85)
+
 # The Best Meal You Ever Had
 
 A make.fun one-sentence entry. The whole submission is a single sentence,
